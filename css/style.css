@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  text-align: center;
+}
+hr {
+  border: dotted #e4c3b5 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+}
+/* TOP SECTION */
+.top-section {
+  background-color: #fbceb5;
+}
+.top-section h1 {
+  font-family: "Sacramento";
+  font-size: 7rem;
+  color: #c17555;
+}
+.top-section p {
+  font-family: "Merriweather";
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+  color: #c17555;
+  padding-bottom: 4rem;
+}
+.top-section img {
+  height: 31rem;
+  position: relative;
+}
+/* MYSElF-SECTION */
+.myself {
+  margin: 7rem;
+}
+.profile img {
+  max-width: 100%;
+  height: 10rem;
+}
+.myself h2 {
+  margin: 2rem;
+  color: #c17555;
+}
+.myself p {
+  font-family: "Merriweather";
+  text-align: center;
+  margin: 50px auto 70px;
+  width: 50%;
+}
+/* SKILLS */
+.skill h1 {
+  font-size: 4rem;
+  color: #c17555;
+  margin: 6rem;
+}
+.skill img {
+  max-width: 100%;
+  height: 9rem;
+}
+.skill h2 {
+  text-align: left;
+  color: #cf9880;
+  margin-bottom: 2rem;
+}
+.skill p {
+  font-family: "Merriweather";
+  text-align: left;
+}
+.d-flex {
+  margin-bottom: 6rem;
+}
+/* HELP */
+.help h1 {
+  font-family: "Merriweather";
+  font-size: 4rem;
+  color: #c17555;
+}
+.help h2 {
+  font-family: "Merriweather";
+  color: #cf9880;
+  margin: 5rem;
+}
+.help p {
+  font-family: "Merriweather";
+  margin: 40px auto 60px;
+  width: 40%;
+}
